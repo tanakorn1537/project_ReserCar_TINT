@@ -29,7 +29,7 @@
 			<br/>
 			<input type="password" id="password" name="password">
 			<br/>
-			<button type="submit">Sign In</button>
+			<button type="submit">เข้าสู่ระบบ</button>
 			</form>
 		</div>
 	</div>
